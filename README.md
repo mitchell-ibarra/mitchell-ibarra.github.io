@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Introduction
+<p>
+Hello, my name is Mitchell and I am a recent Computer Science graduate with a concentration in software engineering. I have close to 3 years of software engineering experience and have gained essential and applicable computer science knowledge that I can utilize throughout the entire software development lifecycle. 
+<br>
+While completing the Computer Science program at Southern New Hampshire University, I have been able to directly apply the concepts and skills I have learned every day in my current role. Additionally, I have been able to learn new technologies and tools which has allowed me to learn how to pick up new skills quickly and effectively. Throughout the CS program at SNHU, I have studied and learned <strong>Agile methodologies</strong> and <strong>team collaboration</strong> with the use of <strong>Git and Bitbucket</strong> to work together with peers in the CS program while completing code reviews and learning from constructive feedback. Within my Software Development Lifecycle course, I have also learned how to <strong>communicate to stakeholders</strong> and have experience interacting with customers to gather requiements and implmement requested features. Additionally, I have studied <strong>data structures and algorithms</strong> at SNHU and have had opportunities to implement algorithms for products in my current role. Other important skills I have gained throughout my time in the CS program are software engineering and databases and have practiced security by learning secure coding best practices. The following artifacts are projects that I have completed either for coursework or outside of coursework for my Capstone project, giving me the opportunity to learn new technologies and improve and apply my current skills.
+</p>
 
-You can use the [editor on GitHub](https://github.com/mitchell-ibarra/mitchell-ibarra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mitchell-ibarra/mitchell-ibarra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
