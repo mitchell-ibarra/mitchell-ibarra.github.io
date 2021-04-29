@@ -1,3 +1,5 @@
+<a href="https://github.com/mitchell-ibarra">Visit my GitHub here.</a>
+
 ## Introduction
 <p>
 Hello! My name is Mitchell and I am a recent Computer Science graduate with a concentration in software engineering. I have close to 3 years of software engineering experience and have gained essential and applicable computer science knowledge that I can utilize throughout the entire software development lifecycle. 
